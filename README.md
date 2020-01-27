@@ -1,2 +1,3 @@
-# importExportJS
-Importing and exporting modules in javascript using es6 and webpack
+# Todo List
+
+- [x] Fix Config
